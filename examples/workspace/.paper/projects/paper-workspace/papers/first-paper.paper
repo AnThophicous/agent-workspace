@@ -1,0 +1,46 @@
+---
+paper_version: 1
+id: 9f6d9c53-a560-4658-962c-e0de818f8e20
+title: Create the first Paper
+kind: plan
+status: active
+project: paper-workspace
+created_at: '2026-07-24T23:05:00.000Z'
+updated_at: '2026-07-24T23:18:00.000Z'
+agent: paper-example
+tags:
+  - example
+  - planning
+---
+# Create the first Paper
+
+## Intention
+
+Show how meaningful agent work remains visible outside a chat.
+
+## Plan
+
+- [x] Create a typed `.paper`
+- [x] Give it an intention
+- [ ] Leave a checkpoint
+
+## Activity
+
+The document is readable Markdown. Paper Workspace uses the frontmatter to organize and recover it without hiding the body in a database.
+
+### Checkpoint · Jul 24, 2026, 11:18 PM
+
+The example workspace is ready to open.
+
+**Completed**
+
+- Defined the first Paper
+- Added a visible plan
+
+**Next**
+
+Open Paper Workspace | App and edit this document.
+
+## Outcome
+
+_Open._

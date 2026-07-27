@@ -1,0 +1,19 @@
+---
+paper_version: 1
+id: 07d488ad-1b09-456d-8c3d-645b428f79c1
+title: Paper Workspace example
+kind: workspace
+status: active
+project: workspace
+created_at: '2026-07-24T23:00:00.000Z'
+updated_at: '2026-07-24T23:00:00.000Z'
+tags:
+  - example
+---
+# Paper Workspace example
+
+This example is safe to open with:
+
+```bash
+node dist/server/cli.js app --workspace ./examples/workspace
+```
